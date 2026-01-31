@@ -28,3 +28,10 @@
 "system_settings_pane" = "தனியுரிமை மற்றும் பாதுகாப்பு அமைப்புகள்";
 "system_preferences_name" = "கணினி விருப்பத்தேர்வுகள்";
 "system_preferences_pane" = "பாதுகாப்பு மற்றும் தனியுரிமை விருப்பத்தேர்வுகள்";
+"copy_image_text_key" = "உரையை பிரித்தெடுக்க {copyImageTextKey} ஐ அழுத்தவும்.";
+"pin_key" = "பின் செய்ய/நீக்க {pinKey} ஐ அழுத்தவும்.";
+"delete_key" = "நீக்க {deleteKey} ஐ அழுத்தவும்.";
+"application" = "பயன்பாடு:";
+"first_copy_time" = "முதல் நகல் நேரம்:";
+"last_copy_time" = "கடைசி நகல் நேரம்:";
+"number_of_copies" = "நகல்களின் எண்ணிக்கை:";

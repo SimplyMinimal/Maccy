@@ -28,3 +28,10 @@
 "clear_alert_confirm" = "Șterge";
 "active_screen" = "Ecranul activ";
 "accessibility_alert_comment" = "Acordă acces acestei aplicații în {pane}, aflat în {settings}.\n\nFă clic pe butonul +, selectează Maccy și bifează caseta de selectare de lânga aceasta.";
+"copy_image_text_key" = "Apasă {copyImageTextKey} pentru a extrage textul.";
+"pin_key" = "Apasă {pinKey} pentru a (de)fixa.";
+"delete_key" = "Apasă {deleteKey} pentru a șterge.";
+"application" = "Aplicație:";
+"first_copy_time" = "Prima dată de copiere:";
+"last_copy_time" = "Ultima dată de copiere:";
+"number_of_copies" = "Număr de copii:";

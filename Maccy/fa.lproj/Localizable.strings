@@ -4,3 +4,10 @@
 "about_tooltip" = "اطلاعات بیشتری دربارهٔ برنامه بخوانید.";
 "quit_tooltip" = "خروج از برنامه.";
 "clear" = "پاک کردن";
+"copy_image_text_key" = "برای استخراج متن {copyImageTextKey} را فشار دهید.";
+"pin_key" = "برای (سنجاق زدن/برداشتن) {pinKey} را فشار دهید.";
+"delete_key" = "برای حذف {deleteKey} را فشار دهید.";
+"application" = "برنامه:";
+"first_copy_time" = "زمان اولین کپی:";
+"last_copy_time" = "زمان آخرین کپی:";
+"number_of_copies" = "تعداد کپی‌ها:";

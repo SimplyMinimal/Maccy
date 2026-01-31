@@ -28,3 +28,10 @@
 "system_settings_pane" = "הגדרות פרטיות ואבטחה";
 "system_preferences_name" = "העדפות מערכת";
 "system_preferences_pane" = "העדפות אבטחה ופרטיות";
+"copy_image_text_key" = "יש ללחוץ על {copyImageTextKey} כדי לחלץ טקסט.";
+"pin_key" = "יש ללחוץ על {pinKey} כדי לנעוץ/לבטל נעיצה.";
+"delete_key" = "יש ללחוץ על {deleteKey} כדי למחוק.";
+"application" = "יישום:";
+"first_copy_time" = "זמן העתקה ראשון:";
+"last_copy_time" = "זמן העתקה אחרון:";
+"number_of_copies" = "מספר העתקות:";

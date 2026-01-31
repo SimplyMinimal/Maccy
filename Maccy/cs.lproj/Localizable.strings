@@ -28,3 +28,10 @@
 "about" = "O aplikaci";
 "copy_modifiers_config" = "• Vyber se stisknutím %@ pro zkopírování položky.";
 "format_modifiers_config" = "• Vyber se stisknutím %@ pro zkopírování, odstranění formátování a vložení položky.";
+"copy_image_text_key" = "Stiskněte {copyImageTextKey} pro extrakci textu.";
+"pin_key" = "Stiskněte {pinKey} pro (od)připnutí.";
+"delete_key" = "Stiskněte {deleteKey} pro smazání.";
+"application" = "Aplikace:";
+"first_copy_time" = "Čas prvního kopírování:";
+"last_copy_time" = "Čas posledního kopírování:";
+"number_of_copies" = "Počet kopií:";

@@ -28,3 +28,10 @@
 "paste_modifiers_config" = "• Elekti premante %@ por kopii kaj alglui la eron.";
 "format_modifiers_config" = "• Elekti premante %@ por kopii, forigi tekstaranĝon, alglui la eron.";
 "accessibility_alert_comment" = "Donu aliron al la aplikaĵo en {pane}, trovebla en {settings}.\n\nAlklaku la butonon +, elektu Maccy, kaj ŝaltu la elektobutonon apud ĝi.";
+"copy_image_text_key" = "Premu {copyImageTextKey} por eltiri tekston.";
+"pin_key" = "Premu {pinKey} por (mal)fiksi.";
+"delete_key" = "Premu {deleteKey} por forigi.";
+"application" = "Aplikaĵo:";
+"first_copy_time" = "Tempo de unua kopiado:";
+"last_copy_time" = "Tempo de lasta kopiado:";
+"number_of_copies" = "Nombro da kopioj:";

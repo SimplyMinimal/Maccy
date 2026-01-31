@@ -28,3 +28,10 @@
 "preferences_advanced" = "Napredno";
 "format_modifiers_config" = "• Izberite s pritisnjenim %@, da kopirate, počistite oblikovanje in prilepite element.";
 "accessibility_alert_comment" = "Odobrite dostop do te aplikacije v {pane}, ki se nahaja v {settings}.\n\nKliknite gumb +, izberite Maccy in vklopite potrditveno polje poleg njega.";
+"copy_image_text_key" = "Pritisnite {copyImageTextKey} za izvleček besedila.";
+"pin_key" = "Pritisnite {pinKey} za (od)pripni.";
+"delete_key" = "Pritisnite {deleteKey} za brisanje.";
+"application" = "Program:";
+"first_copy_time" = "Čas prvega kopiranja:";
+"last_copy_time" = "Čas zadnjega kopiranja:";
+"number_of_copies" = "Število kopij:";

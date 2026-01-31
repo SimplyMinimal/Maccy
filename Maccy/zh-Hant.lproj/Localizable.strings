@@ -28,3 +28,10 @@
 "system_settings_pane" = "「隱私權與安全性」";
 "system_preferences_name" = "「系統偏好設定」";
 "system_preferences_pane" = "「安全性和隱私權」";
+"copy_image_text_key" = "按下 {copyImageTextKey} 以提取文字。";
+"pin_key" = "按下 {pinKey} 以（取消）釘選。";
+"delete_key" = "按下 {deleteKey} 以刪除。";
+"application" = "應用程式：";
+"first_copy_time" = "首次複製時間：";
+"last_copy_time" = "最後複製時間：";
+"number_of_copies" = "複製次數：";
