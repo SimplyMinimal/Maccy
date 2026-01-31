@@ -65,6 +65,13 @@ struct PreviewItemView: View {
               .replacingOccurrences(of: "{deleteKey}", with: deleteKey.description)
           )
         }
+
+        if item.item.image != nil, let copyImageTextKey = KeyboardShortcuts.Shortcut(name: .copyImageText) {
+          Text(
+            NSLocalizedString("CopyImageTextKey", tableName: "PreviewItemView", comment: "")
+              .replacingOccurrences(of: "{copyImageTextKey}", with: copyImageTextKey.description)
+          )
+        }
       }
       .controlSize(.small)
       .padding()
