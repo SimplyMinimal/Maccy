@@ -28,3 +28,10 @@
 "system_settings_pane" = "Datenschutz & Sicherheit";
 "system_preferences_name" = "Systemeinstellungen";
 "system_preferences_pane" = "Sicherheit & Datenschutz";
+"copy_image_text_key" = "Drücken Sie {copyImageTextKey}, um Text zu extrahieren.";
+"pin_key" = "Drücken Sie {pinKey} zum (An-/Ab)pinnen.";
+"delete_key" = "Drücken Sie {deleteKey} zum Löschen.";
+"application" = "Anwendung:";
+"first_copy_time" = "Erste Kopie:";
+"last_copy_time" = "Letzte Kopie:";
+"number_of_copies" = "Anzahl der Kopien:";

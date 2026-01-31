@@ -28,3 +28,10 @@
 "system_settings_pane" = "“プライバシーとセキュリティ”";
 "system_preferences_name" = "システム環境設定の";
 "system_preferences_pane" = "“セキュリティとプライバシー”";
+"copy_image_text_key" = "{copyImageTextKey}を押してテキストを抽出します。";
+"pin_key" = "{pinKey}を押して（固定解除）します。";
+"delete_key" = "{deleteKey}を押して削除します。";
+"application" = "アプリケーション:";
+"first_copy_time" = "最初のコピー時間:";
+"last_copy_time" = "最後のコピー時間:";
+"number_of_copies" = "コピー回数:";

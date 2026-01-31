@@ -28,3 +28,10 @@
 "system_settings_pane" = "Pengaturan Privasi & Keamanan";
 "system_preferences_name" = "Preferensi Sistem";
 "system_preferences_pane" = "Preferensi Keamanan & Privasi";
+"copy_image_text_key" = "Tekan {copyImageTextKey} untuk mengekstrak teks.";
+"pin_key" = "Tekan {pinKey} untuk (lepaskan)semat.";
+"delete_key" = "Tekan {deleteKey} untuk menghapus.";
+"application" = "Aplikasi:";
+"first_copy_time" = "Waktu salin pertama:";
+"last_copy_time" = "Waktu salin terakhir:";
+"number_of_copies" = "Jumlah salinan:";

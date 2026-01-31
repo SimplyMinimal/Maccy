@@ -28,3 +28,10 @@
 "paste_modifiers_config" = "• Pasirinkite paspaudę %@, kad nukopijuotumėte ir įklijuotumėte elementą.";
 "accessibility_alert_comment" = "Suteikite prieigą šiai programai {pane}, esančiai {settings}.\n\nSpustelėjimas + mygtukas, pasirinkite Maccy ir pažymėkite šalia esantį žymimąjį langelį.";
 "clear_alert_confirm" = "Išvalyti";
+"copy_image_text_key" = "Spauskite {copyImageTextKey}, kad išgautumėte tekstą.";
+"pin_key" = "Spauskite {pinKey}, kad (iš)segtumėte.";
+"delete_key" = "Spauskite {deleteKey}, kad ištrintumėte.";
+"application" = "Programa:";
+"first_copy_time" = "Pirmojo kopijavimo laikas:";
+"last_copy_time" = "Paskutiniojo kopijavimo laikas:";
+"number_of_copies" = "Kopijų skaičius:";

@@ -28,3 +28,10 @@
 "system_settings_pane" = "Cài đặt bảo mật và quyền riêng tư";
 "system_preferences_name" = "Thiết lập Hệ thống";
 "system_preferences_pane" = "Tùy chọn Bảo mật & Quyền riêng tư";
+"copy_image_text_key" = "Nhấn {copyImageTextKey} để trích xuất văn bản.";
+"pin_key" = "Nhấn {pinKey} để (bỏ)ghim.";
+"delete_key" = "Nhấn {deleteKey} để xóa.";
+"application" = "Ứng dụng:";
+"first_copy_time" = "Thời gian sao chép đầu tiên:";
+"last_copy_time" = "Thời gian sao chép cuối cùng:";
+"number_of_copies" = "Số lần sao chép:";

@@ -28,3 +28,10 @@
 "system_settings_pane" = "رێکخستنەکانی تایبەتێتی و ئاسایش";
 "system_preferences_name" = "هەڵبژاردەکانی سیستەم";
 "system_preferences_pane" = "هەڵبژاردەکانی ئاسایش و تایبەتێti";
+"copy_image_text_key" = "بۆ دەرهێنانی دەق {copyImageTextKey} بەکاربهێنە.";
+"pin_key" = "بۆ (دەستنکردن/لابردن) {pinKey} بەکاربهێنە.";
+"delete_key" = "بۆ سڕینەوە {deleteKey} بەکاربهێنە.";
+"application" = "ئەپلیکەیشن:";
+"first_copy_time" = "کاتی یەکەم کۆپی:";
+"last_copy_time" = "کاتی کۆتا کۆپی:";
+"number_of_copies" = "ژمارەی کۆپیەکان:";

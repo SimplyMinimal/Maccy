@@ -28,3 +28,10 @@
 "format_modifiers_config" = "• Selecione com %@ pressionado para copiar, limpar a formatação e colar o item.";
 "accessibility_alert_comment" = "Conceda acesso a este aplicativo em {pane}, localizado em {settings}.\n\nClique + botão, selecione Maccy e ative a caixa de seleção próxima a ele.";
 "system_preferences_name" = "Preferências do Sistema";
+"copy_image_text_key" = "Pressione {copyImageTextKey} para extrair texto.";
+"pin_key" = "Pressione {pinKey} para (des)fixar.";
+"delete_key" = "Pressione {deleteKey} para excluir.";
+"application" = "Aplicativo:";
+"first_copy_time" = "Hora da primeira cópia:";
+"last_copy_time" = "Hora da última cópia:";
+"number_of_copies" = "Número de cópias:";
