@@ -28,10 +28,3 @@
 "system_settings_pane" = "«Конфиденциальность и безопасность»";
 "system_preferences_name" = "Системных настройках";
 "system_preferences_pane" = "«Защита и безопасность»";
-"copy_image_text_key" = "Нажмите {copyImageTextKey} для извлечения текста.";
-"pin_key" = "Нажмите {pinKey} для (от)крепления.";
-"delete_key" = "Нажмите {deleteKey} для удаления.";
-"application" = "Приложение:";
-"first_copy_time" = "Время первого копирования:";
-"last_copy_time" = "Время последнего копирования:";
-"number_of_copies" = "Количество копий:";

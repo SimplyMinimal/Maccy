@@ -28,10 +28,3 @@
 "system_settings_pane" = "Privacy- en Beveiligingsinstellingen";
 "system_preferences_name" = "Systeemvoorkeuren";
 "system_preferences_pane" = "Beveiliging en Privacyvoorkeuren";
-"copy_image_text_key" = "Druk op {copyImageTextKey} om tekst te extraheren.";
-"pin_key" = "Druk op {pinKey} om (ont) vast te zetten.";
-"delete_key" = "Druk op {deleteKey} om te verwijderen.";
-"application" = "Applicatie:";
-"first_copy_time" = "Eerste kopieertijd:";
-"last_copy_time" = "Laatste kopieertijd:";
-"number_of_copies" = "Aantal kopieën:";

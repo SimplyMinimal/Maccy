@@ -28,10 +28,3 @@
 "system_settings_pane" = "Gizlilik ve Güvenlik";
 "system_preferences_name" = "Sistem Tercihleri";
 "system_preferences_pane" = "Güvenlik ve Gizlilik Tercihleri";
-"copy_image_text_key" = "Metni çıkarmak için {copyImageTextKey} tuşuna basın.";
-"pin_key" = "Sabitlemek/sabitlemeyi kaldırmak için {pinKey} tuşuna basın.";
-"delete_key" = "Silmek için {deleteKey} tuşuna basın.";
-"application" = "Uygulama:";
-"first_copy_time" = "İlk kopyalama zamanı:";
-"last_copy_time" = "Son kopyalama zamanı:";
-"number_of_copies" = "Kopyalama sayısı:";

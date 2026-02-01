@@ -28,10 +28,3 @@
 "system_settings_pane" = "إعدادات الخصوصية والأمان";
 "system_preferences_name" = "تفضيلات النظام";
 "system_preferences_pane" = "تفضيلات الأمان والخصوصية";
-"copy_image_text_key" = "اضغط {copyImageTextKey} لاستخراج النص.";
-"pin_key" = "اضغط {pinKey} للتثبيت/إلغاء التثبيت.";
-"delete_key" = "اضغط {deleteKey} للحذف.";
-"application" = "التطبيق:";
-"first_copy_time" = "وقت النسخ الأول:";
-"last_copy_time" = "وقت النسخ الأخير:";
-"number_of_copies" = "عدد النسخ:";

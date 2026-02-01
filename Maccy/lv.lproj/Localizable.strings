@@ -28,10 +28,3 @@
 "accessibility_alert_comment" = "Piešķirt piekļuvi šai lietotnei izvelnē {pane}, kas atrodas {settings}.\n\nNoklikšķiniet uz + pogas, atlasiet Maccy un ieslēdziet tai blakus esošo izvēles ķeksīti.";
 "clear_alert_cancel" = "Atcelt";
 "accessibility_alert_message" = "“Maccy” vēlas kontrolēt šo datoru, izmantojot pieejamības līdzekļus.";
-"copy_image_text_key" = "Nospiediet {copyImageTextKey}, lai izvilktu tekstu.";
-"pin_key" = "Nospiediet {pinKey}, lai (ats)piesprauztu.";
-"delete_key" = "Nospiediet {deleteKey}, lai dzēstu.";
-"application" = "Lietotne:";
-"first_copy_time" = "Pirmās kopēšanas laiks:";
-"last_copy_time" = "Pēdējās kopēšanas laiks:";
-"number_of_copies" = "Kopiju skaits:";

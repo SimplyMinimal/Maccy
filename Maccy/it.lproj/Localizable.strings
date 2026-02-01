@@ -28,10 +28,3 @@
 "system_settings_pane" = "Privacy e sicurezza";
 "system_preferences_name" = "Preferenze di Sistema";
 "system_preferences_pane" = "Sicurezza e Privacy";
-"copy_image_text_key" = "Premi {copyImageTextKey} per estrarre il testo.";
-"pin_key" = "Premi {pinKey} per (sbloccare/bloccare).";
-"delete_key" = "Premi {deleteKey} per eliminare.";
-"application" = "Applicazione:";
-"first_copy_time" = "Prima copia:";
-"last_copy_time" = "Ultima copia:";
-"number_of_copies" = "Numero di copie:";

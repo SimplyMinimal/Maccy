@@ -28,10 +28,3 @@
 "system_settings_pane" = "Maxfiylik va Xavfsizlik sozlamalari";
 "system_preferences_name" = "Tizim sozlamalari";
 "system_preferences_pane" = "Xavfsizlik va Maxfiylik sozlamalari";
-"copy_image_text_key" = "Matnni ajratish uchun {copyImageTextKey} tugmasini bosing.";
-"pin_key" = "Ilganchini (qo'yish/olib tashlash) uchun {pinKey} tugmasini bosing.";
-"delete_key" = "O'chirish uchun {deleteKey} tugmasini bosing.";
-"application" = "Ilova:";
-"first_copy_time" = "Birinchi nusxalash vaqti:";
-"last_copy_time" = "Oxirgi nusxalash vaqti:";
-"number_of_copies" = "Nusxalar soni:";

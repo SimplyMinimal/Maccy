@@ -28,10 +28,3 @@
 "clear" = "Wyczyść";
 "accessibility_alert_comment" = "Daj dostęp tej aplikacji w {pane}, w {settings}.\n\nKliknij przycisk +, wybierz Maccy i kliknij przełącznik obok.";
 "clear_alert_comment" = "Nie możesz cofnąć tej akcji.";
-"copy_image_text_key" = "Naciśnij {copyImageTextKey}, aby wyodrębnić tekst.";
-"pin_key" = "Naciśnij {pinKey}, aby (od)przypiąć.";
-"delete_key" = "Naciśnij {deleteKey}, aby usunąć.";
-"application" = "Aplikacja:";
-"first_copy_time" = "Czas pierwszego skopiowania:";
-"last_copy_time" = "Czas ostatniego skopiowania:";
-"number_of_copies" = "Liczba kopii:";

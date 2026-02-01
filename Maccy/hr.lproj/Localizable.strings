@@ -28,10 +28,3 @@
 "system_settings_pane" = "Privatnost i sigurnost";
 "system_preferences_name" = "Postavki sustava";
 "system_preferences_pane" = "Sigurnost i privatnost";
-"copy_image_text_key" = "Pritisni {copyImageTextKey} za izdvajanje teksta.";
-"pin_key" = "Pritisni {pinKey} za (od)kvačanje.";
-"delete_key" = "Pritisni {deleteKey} za brisanje.";
-"application" = "Aplikacija:";
-"first_copy_time" = "Prvo vrijeme kopiranja:";
-"last_copy_time" = "Posljednje vrijeme kopiranja:";
-"number_of_copies" = "Broj kopija:";

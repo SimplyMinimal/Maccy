@@ -28,10 +28,3 @@
 "system_settings_pane" = "“隐私与安全性“";
 "system_preferences_name" = "“系统偏好设置”";
 "system_preferences_pane" = "“安全性和隐私”";
-"copy_image_text_key" = "按 {copyImageTextKey} 提取文本。";
-"pin_key" = "按 {pinKey} 以（取消）固定。";
-"delete_key" = "按 {deleteKey} 以删除。";
-"application" = "应用程序：";
-"first_copy_time" = "首次复制时间：";
-"last_copy_time" = "最后复制时间：";
-"number_of_copies" = "复制次数：";

@@ -28,10 +28,3 @@
 "system_settings_pane" = "Personvern og sikkerhet";
 "system_preferences_name" = "System Valg";
 "system_preferences_pane" = "Sikkerhet & Personvern";
-"copy_image_text_key" = "Trykk {copyImageTextKey} for å utgi tekst.";
-"pin_key" = "Trykk {pinKey} for å (av)feste.";
-"delete_key" = "Trykk {deleteKey} for å slette.";
-"application" = "Program:";
-"first_copy_time" = "Første kopieringstid:";
-"last_copy_time" = "Siste kopieringstid:";
-"number_of_copies" = "Antall kopier:";

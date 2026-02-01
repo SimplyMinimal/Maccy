@@ -28,10 +28,3 @@
 "system_settings_pane" = "개인정보 보호 및 보안";
 "system_preferences_name" = "시스템 환경설정에";
 "system_preferences_pane" = "보안 및 개인";
-"copy_image_text_key" = "텍스트를 추출하려면 {copyImageTextKey}를 누르세요.";
-"pin_key" = "고정/고정 해제하려면 {pinKey}를 누르세요.";
-"delete_key" = "삭제하려면 {deleteKey}를 누르세요.";
-"application" = "애플리케이션:";
-"first_copy_time" = "처음 복사 시간:";
-"last_copy_time" = "마지막 복사 시간:";
-"number_of_copies" = "복사 횟수:";

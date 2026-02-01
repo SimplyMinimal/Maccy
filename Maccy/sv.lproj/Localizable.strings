@@ -28,10 +28,3 @@
 "system_settings_pane" = "";
 "system_preferences_name" = "";
 "system_preferences_pane" = "";
-"copy_image_text_key" = "Tryck på {copyImageTextKey} för att extrahera text.";
-"pin_key" = "Tryck på {pinKey} för att (av)fästa.";
-"delete_key" = "Tryck på {deleteKey} för att ta bort.";
-"application" = "Program:";
-"first_copy_time" = "Första kopieringstid:";
-"last_copy_time" = "Sista kopieringstid:";
-"number_of_copies" = "Antal kopior:";

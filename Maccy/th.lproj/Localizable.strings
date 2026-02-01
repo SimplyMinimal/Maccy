@@ -28,10 +28,3 @@
 "system_settings_pane" = "ความเป็นส่วนตัวและความปลอดภัย";
 "system_preferences_name" = "การตั้งค่าระบบ";
 "system_preferences_pane" = "ความปลอดภัยและความเป็นส่วนตัว";
-"copy_image_text_key" = "กด {copyImageTextKey} เพื่อดึงข้อความ";
-"pin_key" = "กด {pinKey} เพื่อ (เลิก)ปักหมุด";
-"delete_key" = "กด {deleteKey} เพื่อลบ";
-"application" = "แอปพลิเคชัน:";
-"first_copy_time" = "เวลาคัดลอกครั้งแรก:";
-"last_copy_time" = "เวลาคัดลอกครั้งล่าสุด:";
-"number_of_copies" = "จำนวนการคัดลอก:";

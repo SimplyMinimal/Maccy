@@ -28,10 +28,3 @@
 "screen" = "Képernyő";
 "system_settings_pane" = "Adatvédelem és biztonság";
 "system_preferences_name" = "Rendszerbeállítások";
-"copy_image_text_key" = "Szöveg kinyeréséhez nyomja meg a {copyImageTextKey} gombot.";
-"pin_key" = "Rögzítéshez/rögzítés feloldásához nyomja meg a {pinKey} gombot.";
-"delete_key" = "Törléshez nyomja meg a {deleteKey} gombot.";
-"application" = "Alkalmazás:";
-"first_copy_time" = "Első másolás ideje:";
-"last_copy_time" = "Utolsó másolás ideje:";
-"number_of_copies" = "Másolatok száma:";

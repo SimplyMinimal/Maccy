@@ -28,10 +28,3 @@
 "accessibility_alert_open" = "Άνοιγμα Προτιμήσεων Συστήματος";
 "screen" = "Οθόνη";
 "system_settings_name" = "Ρυθμίσεις Συστήματος";
-"copy_image_text_key" = "Πατήστε {copyImageTextKey} για να εξαγάγετε κείμενο.";
-"pin_key" = "Πατήστε {pinKey} για να (απο)καρφιτσώσετε.";
-"delete_key" = "Πατήστε {deleteKey} για να διαγράψετε.";
-"application" = "Εφαρμογή:";
-"first_copy_time" = "Ώρα πρώτου αντιγράφου:";
-"last_copy_time" = "Ώρα τελευταίου αντιγράφου:";
-"number_of_copies" = "Αριθμός αντιγράφων:";

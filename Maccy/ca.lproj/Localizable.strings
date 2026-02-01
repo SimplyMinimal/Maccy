@@ -28,10 +28,3 @@
 "system_settings_pane" = "Ajustaments de Privacitat & Seguretat";
 "system_preferences_name" = "Ajustaments del Sistema";
 "system_preferences_pane" = "Ajustaments de Seguretat & Privacitat";
-"copy_image_text_key" = "Prem {copyImageTextKey} per extreure text.";
-"pin_key" = "Prem {pinKey} per (des)fixar.";
-"delete_key" = "Prem {deleteKey} per suprimir.";
-"application" = "Aplicació:";
-"first_copy_time" = "Primera hora de còpia:";
-"last_copy_time" = "Última hora de còpia:";
-"number_of_copies" = "Nombre de còpies:";

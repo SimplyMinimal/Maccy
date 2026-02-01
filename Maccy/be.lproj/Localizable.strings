@@ -28,10 +28,3 @@
 "clear_tooltip" = "Ачысціць незамацаваныя элементы.\nВыберыце з ⇧, каб выдаліць усе.";
 "clear_all_tooltip" = "Ачысціць усе элементы.";
 "system_preferences_name" = "Сістэмных наладах";
-"copy_image_text_key" = "Націсніце {copyImageTextKey}, каб выняць тэкст.";
-"pin_key" = "Націсніце {pinKey}, каб (ад)мацаваць.";
-"delete_key" = "Націсніце {deleteKey}, каб выдаліць.";
-"application" = "Дадатак:";
-"first_copy_time" = "Час першага капіравання:";
-"last_copy_time" = "Час апошняга капіравання:";
-"number_of_copies" = "Колькасць копій:";
