@@ -26,7 +26,7 @@ struct PreviewItemView: View {
 
         if let application = item.application {
           HStack(spacing: 3) {
-            Text(NSLocalizedString("Application", tableName: "PreviewItemView", comment: ""))
+            Text("Application", tableName: "PreviewItemView")
             Image(nsImage: item.applicationImage.nsImage)
               .resizable()
               .frame(width: 11, height: 11)
@@ -35,19 +35,19 @@ struct PreviewItemView: View {
         }
 
         HStack(spacing: 3) {
-          Text(NSLocalizedString("FirstCopyTime", tableName: "PreviewItemView", comment: ""))
+          Text("FirstCopyTime", tableName: "PreviewItemView")
           Text(item.item.firstCopiedAt, style: .date)
           Text(item.item.firstCopiedAt, style: .time)
         }
 
         HStack(spacing: 3) {
-          Text(NSLocalizedString("LastCopyTime", tableName: "PreviewItemView", comment: ""))
+          Text("LastCopyTime", tableName: "PreviewItemView")
           Text(item.item.lastCopiedAt, style: .date)
           Text(item.item.lastCopiedAt, style: .time)
         }
 
         HStack(spacing: 3) {
-          Text(NSLocalizedString("NumberOfCopies", tableName: "PreviewItemView", comment: ""))
+          Text("NumberOfCopies", tableName: "PreviewItemView")
           Text(String(item.item.numberOfCopies))
         }
         .padding(.bottom)
@@ -56,21 +56,21 @@ struct PreviewItemView: View {
           Text(
             NSLocalizedString("PinKey", tableName: "PreviewItemView", comment: "")
               .replacingOccurrences(of: "{pinKey}", with: pinKey.description)
-          )
+              )
         }
 
         if let deleteKey = KeyboardShortcuts.Shortcut(name: .delete) {
           Text(
             NSLocalizedString("DeleteKey", tableName: "PreviewItemView", comment: "")
               .replacingOccurrences(of: "{deleteKey}", with: deleteKey.description)
-          )
+              )
         }
 
         if item.item.image != nil, let copyImageTextKey = KeyboardShortcuts.Shortcut(name: .copyImageText) {
           Text(
             NSLocalizedString("CopyImageTextKey", tableName: "PreviewItemView", comment: "")
               .replacingOccurrences(of: "{copyImageTextKey}", with: copyImageTextKey.description)
-          )
+              )
         }
       }
       .controlSize(.small)
